@@ -4,4 +4,5 @@
 *.js linguist-detectable=false
 *.java linguist-detectable=true
 *.dart linguist-detectable=true
+*.html linguist-detectable=false
 
