@@ -4,5 +4,5 @@
 *.js linguist-detectable=false
 *.java linguist-detectable=true
 *.dart linguist-detectable=true
-*.d linguist-detectable= dart
+*.xml linguist-detectable= dart
 
