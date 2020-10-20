@@ -2,6 +2,6 @@
 *.js linguist-detectable=false
 *.java linguist-detectable=true
 *.dart linguist-detectable=true
-*.xml linguist-detectable= dart
 *.dart linguist-detectable=true
+*.xml linguist-detectable= dart
 *.json linguist-detectable= dart
