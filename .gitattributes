@@ -3,5 +3,3 @@
 *.java linguist-detectable=true
 *.dart linguist-detectable=true
 *.dart linguist-detectable=true
-*.xml linguist-detectable= dart
-*.json linguist-detectable= dart
